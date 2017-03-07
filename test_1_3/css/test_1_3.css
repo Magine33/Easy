@@ -1,0 +1,58 @@
+.biankuang{
+	margin-right: 21px;
+	margin-left: 21px;
+	margin-bottom: 21px;
+	margin-top: 21px;
+	padding: 20px;
+	background-color: #eee;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999;
+	overflow: auto;
+}
+.biankuang .zuo{
+	width: 200px;
+	height: 130px;
+	background-color: #fff;
+	float: left;
+	position: relative;
+}
+.biankuang .zuo img{
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	top: 18px;
+	left: 18px;
+}
+.biankuang .zuo p{
+	position: absolute;
+	top: 0px;
+	right: 15px;
+}
+.biankuang .you{
+	float: right;
+	width: 120px;
+	height: 435px;
+	background-color: #fff;
+	text-align: center;
+}
+.biankuang .you img{
+	width: 80px;
+	height: 80px;
+	margin-top: 20px;
+}
+.biankuang .zhong{
+	margin: -17px 140px 0 220px;
+	background-color: #fff;
+}
+.biankuang .zhong p{
+	padding-right: 20px;
+	padding-left: 20px;
+	text-indent: 2em;
+}
+.biankuang .zhong p.biaoti{
+	padding-top: 20px;
+}
+.biankuang .zhong p.zhenwen{
+	padding-bottom: 20px;
+}
